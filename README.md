@@ -2,7 +2,7 @@
 
 **A learnable data correction layer that can be integrated into any neural network architecture.**
 
-> *Paper under review at KDD 2026*
+
 
 ## Key Idea
 
